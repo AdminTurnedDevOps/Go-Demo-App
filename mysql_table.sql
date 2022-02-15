@@ -1,1 +1,0 @@
-create table song_explorer_models (Year VARCHAR(100), song_name VARCHAR(100), ID VARCHAR(100), created_at VARCHAR(100)
